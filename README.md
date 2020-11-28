@@ -6,7 +6,7 @@
 
 # Outline
 * ### [Motivation](https://github.com/neulab/ReviewAdvisor#Motivation-1)
-* ### [Demo: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#Motivation-1)
+* ### [Online Demo](https://github.com/neulab/ReviewAdvisor#Motivation-1)
 * ### [Dataset: AutoReview]()
 * ### [Model: ReviewAdvisor]()
 * ### [Rethinking: Challenges](https://github.com/neulab/ReviewAdvisor#Released-Data-1)
