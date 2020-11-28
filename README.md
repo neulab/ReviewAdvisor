@@ -11,7 +11,7 @@
 * ### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model-1)
 * ### [Rethinking: Challenges](https://github.com/neulab/ReviewAdvisor#challenges-1)
 * ### [Acknowledgement](https://github.com/neulab/ReviewAdvisor#acknowledgement-1)
-* ### [Bib](https://github.com/neulab/ReviewAdvisor#Bib-1)
+* ### [Bib](https://github.com/neulab/ReviewAdvisor#bib-1)
 
 
 # Motivation
@@ -39,3 +39,4 @@
 We would like to thank people for their generous support, especially,
 Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou
 
+# Bib
