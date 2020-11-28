@@ -5,19 +5,31 @@
 
 
 # Outline
-* ### [Motivation](https://github.com/neulab/ReviewAdvisor#Motivation-1)
-* ### [Online Demo](https://github.com/neulab/ReviewAdvisor#Motivation-1)
-* ### [Dataset: AutoReview]()
-* ### [Model: ReviewAdvisor]()
-* ### [Rethinking: Challenges](https://github.com/neulab/ReviewAdvisor#Released-Data-1)
-* ### [Acknowledgement](https://github.com/neulab/ReviewAdvisor#Meta-evaluation-Tool-1)
+* ### [Motivation](https://github.com/neulab/ReviewAdvisor#motivation-1)
+* ### [Online Demo](https://github.com/neulab/ReviewAdvisor#demo)
+* ### [Dataset: AutoReview](https://github.com/neulab/dataset)
+* ### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model-1)
+* ### [Rethinking: Challenges](https://github.com/neulab/ReviewAdvisor#challenges-1)
+* ### [Acknowledgement](https://github.com/neulab/ReviewAdvisor#acknowledgement-1)
 * ### [Bib](https://github.com/neulab/ReviewAdvisor#Bib-1)
 
 
-# Motivation:
+# Motivation
 
 ### Can We Automate Scientific Reviewing?
 ### Heavy workload on reviewing papers?  ReviewAdvisor helps out!
+
+
+# Demo
+
+# Dataset
+
+
+# Model
+
+# Challenges
+
+
 
 
 
