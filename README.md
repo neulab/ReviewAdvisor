@@ -4,7 +4,7 @@
 ### Authors: [Weizhe Yuan](), [Pengfei Liu](), [Graham Neubig]()
 
 
-## Outline
+# Outline
 * ### [Motivation](https://github.com/neulab/ReviewAdvisor#Motivation-1)
 * ### [Demo: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#Motivation-1)
 * ### [Dataset: AutoReview]
@@ -14,7 +14,7 @@
 * ### [Bib](https://github.com/neulab/ReviewAdvisor#Bib-1)
 
 
-## Motivation:
+# Motivation:
 
 ### Can We Automate Scientific Reviewing?
 ### Heavy workload on reviewing papers?  ReviewAdvisor helps out!
