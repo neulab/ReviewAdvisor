@@ -21,6 +21,7 @@
 
 
 # Demo
+<img src="./fig/demo.png" width="500" class="center">
 
 # Dataset
 
