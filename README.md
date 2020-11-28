@@ -1,7 +1,7 @@
 
 <img src="./fig/logo.png" width="500" class="center">
 
-### Authors: [Weizhe Yuan](), [Pengfei Liu](), [Graham Neubig]()
+### Authors: [Weizhe Yuan](https://yyy-apple.github.io/), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
 
 
 # Outline
