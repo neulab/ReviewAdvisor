@@ -1,7 +1,7 @@
 
 <img src="./fig/logo.png" width="500" class="center">
 
-#### [Weizhe Yuan](), [Pengfei Liu](), [Graham Neubig]()
+Authors: ### [Weizhe Yuan](), [Pengfei Liu](), [Graham Neubig]()
 
 
 ## Outline
