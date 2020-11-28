@@ -9,6 +9,7 @@
 * ### [Online Demo](https://github.com/neulab/ReviewAdvisor#demo)
 * ### [Dataset: AutoReview](https://github.com/neulab/dataset)
 * ### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model-1)
+* ### [Fairness: Bias Analysis](https://github.com/neulab/ReviewAdvisor#bias-1)
 * ### [Rethinking: Challenges](https://github.com/neulab/ReviewAdvisor#challenges-1)
 * ### [Acknowledgement](https://github.com/neulab/ReviewAdvisor#acknowledgement-1)
 * ### [Bib](https://github.com/neulab/ReviewAdvisor#bib-1)
@@ -32,6 +33,8 @@
 
 # Model
 
+
+# Bias
 
 # Challenges
 
