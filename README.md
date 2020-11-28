@@ -1,4 +1,3 @@
-# ReviewAdvisor: Can We Automate Scientific Reviewing?
 
 <img src="./fig/logo.png" width="200" class="center">
 
