@@ -27,7 +27,7 @@
 
 ### Have a [TRY](http://review.nlpedia.ai/)
 
-<img src="./fig/demo.png" width="800" class="center">
+
 
 
 # Dataset
