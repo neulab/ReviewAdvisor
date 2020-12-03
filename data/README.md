@@ -30,7 +30,6 @@ The basic statistics of our dataest is shown in the table below. Note that NIPS 
 | # of Reviews per Paper | 3.03 | 3.36 | 3.17 |
 
 <br>
-<br>
 
 ## Our Data Format
 
@@ -41,7 +40,6 @@ For each paper, we give it a unique id, and create three json files for it.
 
 - One for paper review: we include both general reviews and meta reviews.
 
-<br>
 <br>
 
 # Aspect-enhanced Review Dataset
@@ -62,7 +60,6 @@ Overall, the data annotation involves four steps that are shown in Fig.1.
 <img src="../fig/pipeline.png" width="800" class="center">
 
 <br>
-<br>
 
 Four Steps:
 
@@ -80,7 +77,6 @@ An example of automatically annotated review in our dataset is shown in Fig.2. I
 <img src="../fig/auto_annotated.png" width="800" class="center">
 
 <br>
-<br>
 
 ## Our Data Format
 We provide two data formats:
@@ -96,6 +92,7 @@ uncertainty summary
 ```
 - jsonlines format. Each review is in a json format.
 ```json
+
 {
     "id": "ICLR_2020_1123", 
     "text": "This work studies the predictive uncertainty...", 
@@ -109,5 +106,6 @@ uncertainty summary
         [3389, 3508, "soundness_negative"]
     ]
 }
+
 ```
 
