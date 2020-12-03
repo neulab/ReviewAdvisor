@@ -18,9 +18,9 @@
 
 # Motivation
 
-### Can We Automate Scientific Reviewing?
-### How will we know if we succeed?
-### Heavy workload on reviewing papers?  ReviewAdvisor helps out!
+* ### Can We Automate Scientific Reviewing?
+* ### How will we know if we succeed?
+* ### Heavy workload on reviewing papers?  ReviewAdvisor helps out!
 
 
 # Demo
