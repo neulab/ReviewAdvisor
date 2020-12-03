@@ -30,7 +30,7 @@
 
 
 # Dataset
-The details of our dataset can be found [here](https://github.com/neulab/ReviewAdvisor/data/README.md)
+The details of our dataset can be found [here](https://github.com/neulab/ReviewAdvisor/blob/main/data/README.md)
 
 # Evaluation
 
