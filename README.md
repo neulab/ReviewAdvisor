@@ -1,5 +1,5 @@
 
-<img src="./fig/logo.png" width="500" class="center">
+<img src="./fig/bot.png" width="150" class="left"><img src="./fig/logo.png" width="500" class="center">
 
 ### Authors: [Weizhe Yuan](https://yyy-apple.github.io/), [Pengfei Liu](http://pfliu.com/), [Graham Neubig](http://www.phontron.com/)
 
