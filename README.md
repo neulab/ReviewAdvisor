@@ -12,7 +12,7 @@
 * ### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model)
 * ### [Fairness: Bias Analysis](https://github.com/neulab/ReviewAdvisor#bias)
 * ### [Rethinking: Challenges](https://github.com/neulab/ReviewAdvisor#challenges)
-* ### [Acknowledgement](https://github.com/neulab/ReviewAdvisor#acknowledgement)
+* ### [Acknowledgement](https://github.com/neulab/ReviewAdvisor#acknowledgement-1)
 * ### [Bib](https://github.com/neulab/ReviewAdvisor#bib-1)
 
 
@@ -98,6 +98,7 @@ We summairze eight eight challenges in the pursuit of a good review generation s
 
 #### This work cannot be accomplished without the help of many researchers.
 We would like to thank people for their generous support, especially,
-Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou, Yixin Liu, Junxian He, Bahetiyaer Bare, Saizheng Zhang, Jiateng Xie.
+Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou, Yixin Liu, Junxian He, Bahetiyaer Bare, Saizheng Zhang, Jiateng Xie, Spyros Gidaris.
+
 
 # Bib
