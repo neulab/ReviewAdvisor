@@ -72,7 +72,7 @@ Absolute bias can be visualized directly by plotting the aspect scores of differ
 
 
 ## Relative bias
-Relative bias quantifies the relative favor for certain groups between human reviewers and system reviewers. And we define a metric called disparaty difference to measure relative bias. The calculation of disparity difference can be visualized in Fig.5.
+Relative bias quantifies the relative favor for certain groups between human reviewers and system reviewers. And we define a metric called disparity difference to measure relative bias. The calculation of disparity difference can be visualized in Fig.5.
 
 <img src="./fig/disparity_diff.png" width="800" class="center">
 
