@@ -5,9 +5,12 @@
 
 
 ```
-Usage Warning: This is a completely automated review system that takes in a paper and outputs a review automatically using machine learning. While it may be useful in some cases, such as pointing out parts of the original paper that you may have missed, it is not a replacement for a skilled human reviewer, and you should not feel that you can cut corners in your review by using the system in its current state. The reviews it outputs may are often wrong, unconstructive, and may be biased. Please read our paper for a comprehensive explanation of the methodology and its limitations
-```
+Usage Warning: This is a completely automated review system that takes in a paper and outputs a review automatically using machine learning. While it may be useful in some
+cases, such as pointing out parts of the original paper that you may have missed, it is not a replacement for a skilled human reviewer, and you should not feel that you can cut
+corners in your review by using the system in its current state. The reviews it outputs may are often wrong, unconstructive, and may be biased. Please read our paper for a
+comprehensive explanation of the methodology and its limitations
 
+```
 
 
 
