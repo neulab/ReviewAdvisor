@@ -11,7 +11,7 @@
 # Outline
 * ### [Motivation](https://github.com/neulab/ReviewAdvisor#motivation)
 * ### [Online Demo](https://github.com/neulab/ReviewAdvisor#demo)
-* ### [Dataset: AutoReview](https://github.com/neulab/dataset)
+* ### [Dataset: ASAP-Review](https://github.com/neulab/dataset)
 * ### [Evaluation](https://github.com/neulab/ReviewAdvisor#evaluation)
 * ### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model)
 * ### [Fairness: Bias Analysis](https://github.com/neulab/ReviewAdvisor#bias)
@@ -35,7 +35,12 @@
 
 
 # Dataset
-The details of our dataset can be found [here](https://github.com/neulab/ReviewAdvisor/blob/main/data/README.md)
+To download our dataset, run
+```bash
+sh download_dataset.sh
+```
+There will be a **dataset** folder that contains the data. Please read the README.md in **dataset** folder to know more about the details.
+
 
 # Evaluation
 We first define two high-level objectives of scientific peer review following [Jefferson et al. (2002a)](https://jamanetwork.com/journals/jama/fullarticle/194989). and [Smith (2006)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/).
@@ -43,7 +48,7 @@ We first define two high-level objectives of scientific peer review following [J
 1. Selecting high-quality submissions for publication.
 2. Improving different aspects  of a paper by providing detailed comments.
 
-We then make a step towards review evaluation for scientific papers by proposing seven quantifiable metrics that can characterize a review from multiple perspectives. The evaluation metrics are shown in Fig.1, red represents absolute metric and blue represents relative metric.
+We then make the first step towards review evaluation for scientific papers by proposing seven quantifiable metrics that can characterize a review from multiple perspectives. The evaluation metrics are shown in Fig.1, red represents absolute metric and blue represents relative metric.
 
 <img src="./fig/eval_metrics.png" width="500" class="center">
 
@@ -83,7 +88,7 @@ Relative bias quantifies the relative favor for certain groups between human rev
 
 # Challenges
 
-We summairze eight eight challenges in the pursuit of a good review generation system.
+We summarize eight eight challenges in the pursuit of a good review generation system.
 1. Model
     - Long Document Modeling
     - Pre-trained Model for Scientific Domain
@@ -91,7 +96,7 @@ We summairze eight eight challenges in the pursuit of a good review generation s
     - External Knowledge
 2. Dataset
     - More Open, Fine-grained Review Data
-    - More Accurate and powerful Scientific Paper Parser
+    - More Accurate and Powerful Scientific Paper Parser
 3. Evaluation
     - Fairness and Bias in Generated Text
     - Reliability
@@ -102,7 +107,17 @@ We summairze eight eight challenges in the pursuit of a good review generation s
 
 #### This work cannot be accomplished without the help of many researchers.
 We would like to thank people for their generous support, especially,
-Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou, Yixin Liu, Junxian He, Bahetiyaer Bare, Saizheng Zhang, Jiateng Xie, Spyros Gidaris.
+Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou, Yixin Liu, Junxian He, Bahetiyaer Bare, Saizheng Zhang, Jiateng Xie, Spyros Gidaris, Marco Federici, Junji Dai, Zihuiwen Ye Jie Zhou, Yufang Liu, Yue Zhang, Ruifeng Xu, Zhenghua Li, Chunting Zhou, Yang Wei, Jiahao Wang, Bowen Tan, Anda Zhou.
 
 
 # Bib
+```
+@misc{yuan2021automate,
+      title={Can We Automate Scientific Reviewing?}, 
+      author={Weizhe Yuan and Pengfei Liu and Graham Neubig},
+      year={2021},
+      eprint={2102.00176},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
