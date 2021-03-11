@@ -1,0 +1,16 @@
+clarity_negative
+clarity_positive
+meaningful_comparison_negative
+meaningful_comparison_positive
+motivation_negative
+motivation_positive
+O
+originality_negative
+originality_positive
+replicability_negative
+replicability_positive
+soundness_negative
+soundness_positive
+substance_negative
+substance_positive
+summary

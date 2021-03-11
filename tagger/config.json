@@ -1,0 +1,17 @@
+{
+    "data_dir": ".",
+    "labels": "./labels.txt",
+    "model_name_or_path": "seqlab_final",
+    "evaluate_during_training": true,
+    "output_dir": "seqlab_final",
+    "max_seq_length": 512,
+    "num_train_epochs": 3,
+    "per_device_train_batch_size": 2,
+    "per_device_eval_batch_size": 6,
+    "save_steps": 20680,
+    "eval_steps": 20680,
+    "seed": 1,
+    "do_train": false,
+    "do_eval": false,
+    "do_predict": true
+}
