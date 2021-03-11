@@ -277,31 +277,6 @@ def heuristics(doc_with_id_elem):
     return return_list
 
 
-def test_heuristics():
-    words_with_labels = [('this', 'summary'),
-                         ('is', 'O'),
-                         ('a', 'summary'),
-                         ('interesting', 'O'),
-                         ('research', 'O'),
-                         ('.', 'O'),
-                         ('We', 'O'),
-                         ('think', 'O'),
-                         ('it', 'O'),
-                         ('is', 'O'),
-                         ('super', 'soundness'),
-                         ('fun', 'summary'),
-                         ('and', 'soundness'),
-                         ('I', 'O'),
-                         ('really', 'soundness'),
-                         ('really', 'soundness'),
-                         ('really', 'other'),
-                         ('really', 'other'),
-                         ('like', 'soundness'),
-                         ('it', 'O')]
-    label_list = heuristics(words_with_labels)
-    print(label_list)
-
-
 def postprocess(doc_with_id):
     new_doc_with_id = []
     for elem in doc_with_id:
