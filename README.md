@@ -12,7 +12,7 @@
 ## Outline
 * #### [Motivation](https://github.com/neulab/ReviewAdvisor#motivation)
 * #### [Online Demo](https://github.com/neulab/ReviewAdvisor#demo)
-* #### [Dataset: ASAP-Review](https://github.com/neulab/dataset)
+* #### [Dataset: ASAP-Review](https://github.com/neulab/#dataset)
 * #### [Evaluation](https://github.com/neulab/ReviewAdvisor#evaluation)
 * #### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model)
 * #### [Fairness: Bias Analysis](https://github.com/neulab/ReviewAdvisor#bias)
@@ -46,7 +46,7 @@ To use our trained tagger, run
 ```bash
 sh download_tagger.sh
 ```
-There will be a seqlab_final folder that contains our trained tagger. Move it into the **tagger** folder in this repo. The detailed usage of our tagger can be refered [here]().
+There will be a **seqlab_final** folder that contains our trained tagger. Move it into the **tagger** folder in this repo. The detailed usage of our tagger can be refered [here](https://github.com/neulab/ReviewAdvisor/tree/main/tagger).
 
 
 ## Evaluation

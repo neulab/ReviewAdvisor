@@ -1,10 +1,5 @@
 # Aspect Tagger
-We define 8 aspects which are **Summary**, **Motivation/Impact**, **Originality**, **Soundness/Correctness**, **Substance**, **Replicability**, **Meaningful Comparison**, **Clarity**. Our tagger can tag appropriate spans that indicate those aspects with sentiment polarity (e.g. positive originality).
-
-
-<br>
-
-Requirements for all the libraries are in the **requirements.txt**, please use the right version for each library in order to use our trained tagger.
+We define 8 aspects which are **Summary**, **Motivation/Impact**, **Originality**, **Soundness/Correctness**, **Substance**, **Replicability**, **Meaningful Comparison**, **Clarity**. Our tagger can tag appropriate spans that indicate those aspects with sentiment polarity (e.g. positive originality). Requirements for all the libraries are in the **requirements.txt**, please use the right version for each library in order to use our trained tagger.
 
 <br>
 
