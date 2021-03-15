@@ -114,7 +114,7 @@ We summarize eight eight challenges in the pursuit of a good review generation s
 
 #### This work cannot be accomplished without the help of many researchers.
 We would like to thank people for their generous support, especially,
-Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou, Yixin Liu, Junxian He, Bahetiyaer Bare, Saizheng Zhang, Jiateng Xie, Spyros Gidaris, Marco Federici, Junji Dai, Zihuiwen Ye Jie Zhou, Yufang Liu, Yue Zhang, Ruifeng Xu, Zhenghua Li, Chunting Zhou, Yang Wei, Jiahao Wang, Bowen Tan, Anda Zhou.
+Gábor Berend, Zhouhan Lin, William W. Cohen, Pengcheng Yin, Tiange Luo, Yuki M. Asano, Junjie Yan, Tuomas Haarnoja, Dandan Guo, Jie Fu, Lei Chen, Jinlan Fu, Jiapeng Wu, Wenshan Wang, Ziyi Dou, Yixin Liu, Junxian He, Bahetiyaer Bare, Saizheng Zhang, Jiateng Xie, Spyros Gidaris, Marco Federici, Junji Dai, Zihuiwen Ye, Jie Zhou, Yufang Liu, Yue Zhang, Ruifeng Xu, Zhenghua Li, Chunting Zhou, Yang Wei, Jiahao Wang, Bowen Tan, Anda Zhou.
 
 
 ## Bib
