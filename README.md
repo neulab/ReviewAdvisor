@@ -12,7 +12,7 @@
 ## Outline
 * #### [Motivation](https://github.com/neulab/ReviewAdvisor#motivation)
 * #### [Online Demo](https://github.com/neulab/ReviewAdvisor#demo)
-* #### [Dataset: ASAP-Review](https://github.com/neulab/#dataset)
+* #### [Dataset: ASAP-Review](https://github.com/neulab/ReviewAdvisor#dataset)
 * #### [Evaluation](https://github.com/neulab/ReviewAdvisor#evaluation)
 * #### [Model: ReviewAdvisor](https://github.com/neulab/ReviewAdvisor#model)
 * #### [Fairness: Bias Analysis](https://github.com/neulab/ReviewAdvisor#bias)
