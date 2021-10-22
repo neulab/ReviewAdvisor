@@ -6,6 +6,7 @@
 
 
 ## Updates
+2021-10-22 Updated extractor.<br>
 2021-3-11 Updated tagger.<br>
 
 
@@ -64,7 +65,7 @@ We decompose review generation into two steps, and consider using a *extract-the
 
 We consider three extraction strategies, which can be visualized in Fig.2.
 1. Section-based Extraction
-2. Cross-entropy Method Extraction
+2. Cross-entropy Method Extraction (see [`extractor`](extractor) folder for details)
 3. Hybrid Extraction
 
 <img src="./fig/extract.png" width="350" class="center">

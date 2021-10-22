@@ -1,0 +1,3 @@
+# Extractor
+
+To use the Cross-entropy extractor, see the example in [`example.ipynb`](example.ipynb). Notice that we reset the random seed every time we begin a new extraction (see [`extractor.py`](extractor.py)). This reset is not required. If you don't do that, the extractions for the same paper will be slightly different every time you extract. But they only differ in no more than 3/30 sentences.
