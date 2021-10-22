@@ -197,5 +197,4 @@ def CEmethod(sent_list: List[str], N=10000, init_p=0.5, rho=0.05, alpha=0.7, ite
         return p
 
     except:
-        traceback.print_exc()
         return np.array([0] * len(sent_list))
