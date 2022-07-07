@@ -31,6 +31,8 @@
 
 ## Demo
 
+(The Demo is currently offline due to computational consideration. We will re-start it once the computational resource is sufficient.)
+
 #### Have a [TRY](http://review.nlpedia.ai/)
 
 
