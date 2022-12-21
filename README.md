@@ -39,6 +39,8 @@
 
 
 ## Dataset
+(The dataset is under Apache-2.0 license)
+
 To download our dataset, run
 ```bash
 sh download_dataset.sh
