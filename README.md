@@ -100,7 +100,7 @@ Relative bias quantifies the relative favor for certain groups between human rev
 
 ## Challenges
 
-We summarize eight eight challenges in the pursuit of a good review generation system.
+We summarize eight challenges in the pursuit of a good review generation system.
 1. Model
     - Long Document Modeling
     - Pre-trained Model for Scientific Domain
